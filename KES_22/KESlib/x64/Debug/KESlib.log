@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  KESlib.cpp
+E:\уник\KES_22\KES_22\KESlib\KESlib.cpp(10,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+E:\уник\KES_22\KES_22\KESlib\KESlib.cpp(18,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KESlib.vcxproj -> E:\уник\KES_22\KES_22\x64\Debug\KESlib.lib

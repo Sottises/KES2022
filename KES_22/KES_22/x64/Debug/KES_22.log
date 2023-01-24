@@ -1,0 +1,22 @@
+﻿  Error.cpp
+  FST.cpp
+E:\уник\KES_22\KES_22\KES_22\FST.cpp(77,38): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Generator.cpp
+E:\уник\KES_22\KES_22\KES_22\Generator.cpp(12,8): warning C4101: gen_ok: неиспользованная локальная переменная
+  GRB.cpp
+  In.cpp
+E:\уник\KES_22\KES_22\KES_22\In.cpp(88,8): warning C4101: flagplus: неиспользованная локальная переменная
+  IT.cpp
+E:\уник\KES_22\KES_22\KES_22\IT.cpp(64,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  KES_22.cpp
+  LexAnaliz.cpp
+  Log.cpp
+E:\уник\KES_22\KES_22\KES_22\Log.cpp(113,12): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  LT.cpp
+  MFST.cpp
+E:\уник\KES_22\KES_22\KES_22\MFST.cpp(241,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PolishNotation.cpp
+  SemanticAnaliz.cpp
+  Создание кода...
+  KES_22.vcxproj -> E:\уник\KES_22\KES_22\x64\Debug\KES_22.exe
